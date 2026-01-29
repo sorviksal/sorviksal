@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am third year student degree! majoring computer science at Asia Euro University. My skill is Backend Developer.</p>
+<p align="left">Currently! I am third year student degree at Asia Euro University majoring computer science. My skill is Backend Developer.</p>
 
 ###
 
