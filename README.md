@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Asia Euro University<br>🌱 I’m currently learning Java, Reactjs, Nodejs<br>🤔 I’m looking for help with AI<br>💬 Ask me about Backend<br>🎯 Goals: DevOps Engineer<br>📫 How to reach me: sorviksal086@gmail.com</p>
+<p align="left">🔭 I’m currently working on Asia Euro University<br>🌱 I’m currently learning Java
+  <br>🤔 I’m looking for help with AI<br>💬 Ask me about Backend<br>🎯 Goals: DevOps Engineer<br>📫 How to reach me: sorviksal086@gmail.com</p>
 
 ###
 
